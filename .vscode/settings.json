@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "All_xa.C": "cpp",
-        "MAS2.C": "cpp"
+        "MAS2.C": "cpp",
+        "MMI_MAS1.C": "cpp"
     }
 }
